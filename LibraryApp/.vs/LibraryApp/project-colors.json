@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "caf6d1e0-8680-42d1-ab10-0f87ee48e7c7": {
+      "ProjectGuid": "caf6d1e0-8680-42d1-ab10-0f87ee48e7c7",
+      "DisplayName": "LibraryApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

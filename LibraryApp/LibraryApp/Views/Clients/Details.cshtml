@@ -1,0 +1,63 @@
+﻿@model LibraryApp.Models.BookClients
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Client</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Client.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Client.LibraryID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.LibraryID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Client.Photo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.Photo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Client.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.Age)
+        </dd>
+
+    </dl>
+</div>
+
+<h3>Clients:</h3>
+<ul>
+    @{ foreach (var c in Model.Books)
+        {
+            <li>
+                @Html.ActionLink(c.Name, "Details", "Books", new { id = c.Id }, new { }) |
+                @Html.ActionLink("Delete", "DeleteBookByClient", "Books", new { id = c.Id, clientId = Model.Client.Id }, new { })
+            </li>
+        } }
+</ul>
+@Html.ActionLink("Add New Book by Client", "InsertBookByClient", "Books", new { id = Model.Client.Id }, new { })
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Client.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,170 @@
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\MusicApp.dll.config
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\MusicApp.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\MusicApp.pdb
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\csc.exe
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\csc.exe.config
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\csc.rsp
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\csi.exe
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\csi.exe.config
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\csi.rsp
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.AppContext.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Console.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Net.Http.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\vbc.exe
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\vbc.exe.config
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\vbc.rsp
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\Antlr3.Runtime.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\EntityFramework.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\EntityFramework.SqlServer.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\Newtonsoft.Json.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.Helpers.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.Mvc.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.Optimization.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.Razor.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.WebPages.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\WebGrease.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\EntityFramework.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\EntityFramework.SqlServer.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.Helpers.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.Mvc.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.Optimization.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.Razor.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.WebPages.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\Newtonsoft.Json.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\Antlr3.Runtime.pdb
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\obj\Debug\MusicApp.csprojAssemblyReference.cache
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\obj\Debug\MusicApp.Migrations.initial.resources
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.GenerateResource.cache
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CopyComplete
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\obj\Debug\MusicApp.dll
+C:\Users\marsenovska\OneDrive - ENDAVA\Desktop\UACS\ADSS\week15-Final-Exam\MusicApp\MusicApp\obj\Debug\MusicApp.pdb
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\MusicApp.dll.config
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\MusicApp.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\MusicApp.pdb
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\csc.exe
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\csc.exe.config
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\csc.rsp
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\csi.exe
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\csi.exe.config
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\csi.rsp
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.AppContext.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Console.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\vbc.exe
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\vbc.exe.config
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\vbc.rsp
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\Antlr3.Runtime.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\EntityFramework.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\Newtonsoft.Json.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.Helpers.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.Mvc.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.Optimization.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.Razor.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.WebPages.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\WebGrease.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\EntityFramework.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.Helpers.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.Mvc.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.Optimization.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.Razor.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.WebPages.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\Newtonsoft.Json.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\Antlr3.Runtime.pdb
+C:\Users\Matej\Desktop\MusicApp\MusicApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matej\Desktop\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\MusicApp\MusicApp\obj\Debug\MusicApp.Migrations.initial.resources
+C:\Users\Matej\Desktop\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.GenerateResource.cache
+C:\Users\Matej\Desktop\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CopyComplete
+C:\Users\Matej\Desktop\MusicApp\MusicApp\obj\Debug\MusicApp.dll
+C:\Users\Matej\Desktop\MusicApp\MusicApp\obj\Debug\MusicApp.pdb
